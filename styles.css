@@ -254,7 +254,7 @@ Questions
 .asb {
   font-weight: bold;
 }
-img, video {
+img, .videoKiwi {
   display: block;
   margin: 5px 0px;
   max-width: 80%;
