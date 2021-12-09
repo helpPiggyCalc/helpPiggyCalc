@@ -250,3 +250,13 @@ Questions
 .show-text .plus-icon {
   display: none;
 }
+
+.asb {
+  font-weight: bold;
+}
+img, video {
+  display: block;
+  margin: 5px 0px;
+  max-width: 80%;
+}
+
