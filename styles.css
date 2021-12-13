@@ -230,6 +230,7 @@ Questions
 .question-text {
   padding: 1rem 0 1.5rem 0;
   border-top: 1px solid rgba(0, 0, 0, 0.2);
+
 }
 .question-text p {
   margin-bottom: 0;
@@ -254,13 +255,9 @@ Questions
 .asb {
   font-weight: bold;
 }
-img {
+img,
+video {
   display: block;
   margin: 5px 0px;
   max-width: 80%;
 }
-
-.videoKiwi{
-  max-width: 80%; 
-}
-
